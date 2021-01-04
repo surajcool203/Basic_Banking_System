@@ -1,9 +1,8 @@
 body {
-	background-image: url(../Basic_Banking_System/image/money-transfer-mobile-banking-bu-1024x725-1.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
-	background-position: center;
+	background-image: url(../Basic_Banking_System/image/Me0Zt6c.jpg);
+}
+.container {
+	cursor: pointer;
 }
 .font {
 	padding: 2px;
@@ -28,28 +27,34 @@ li {
 
 li a {
 	display: block;
-	color: rgb(0, 0, 0);
+	color: rgb(10, 2, 2);
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
 
 li a:hover:not(.active) {
-	background-color: rgb(66, 177, 211);
+	background-color: rgb(32, 177, 221);
 }
 
+h1 {
+	padding-top: 80px;
+	font-family: sans-serif;
+	margin-left: 37%;
+}
 .button {
-	border-radius: 4px;
-	background-color: #f4511e;
+	border-radius: 2px;
+	background-color: #24ce8d;
 	border: none;
 	color: #ffffff;
 	text-align: center;
 	font-size: 28px;
-	padding: 20px;
+	padding: 5px;
 	width: 300px;
 	transition: all 0.5s;
 	cursor: pointer;
 	margin: 5px;
+	margin-left: 18%;
 }
 .button span {
 	cursor: pointer;
@@ -73,34 +78,4 @@ li a:hover:not(.active) {
 .button:hover span:after {
 	opacity: 1;
 	right: 0;
-}
-.heading {
-	padding-left: 5%;
-	font-family: "Sofia", sans-serif;
-}
-p {
-	padding-left: 5%;
-	font-family: "Sofia", sans-serif;
-	font-size: x-large;
-}
-footer {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	padding-right: 50px;
-}
-.fa {
-	padding: 5px;
-	width: 50px;
-	text-align: center;
-	text-decoration: none;
-	margin: 2px 2px;
-}
-.fa-linkedin {
-	background: #007bb5;
-	color: white;
-}
-.fa-github {
-	background: white;
-	color: black;
 }
