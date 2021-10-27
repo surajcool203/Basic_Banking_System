@@ -40,7 +40,7 @@ li a:hover:not(.active) {
 
 .button {
 	border-radius: 4px;
-	background-color: #f4511e;
+	background-color: #4ccec1;
 	border: none;
 	color: #ffffff;
 	text-align: center;
@@ -63,8 +63,8 @@ li a:hover:not(.active) {
 	position: absolute;
 	opacity: 0;
 	top: 0;
-	right: -20px;
-	transition: 0.5s;
+	right: -21px;
+	transition: 0.7s;
 }
 
 .button:hover span {
