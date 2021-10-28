@@ -12,5 +12,5 @@ This repository is for the beginner to make pull request.
 2. CSS
 3. JavaScript
 4. i am also a memnber of this repo.
-
-i have done the ui part 
+5. i am a newbie.
+6. i have done the ui part 
