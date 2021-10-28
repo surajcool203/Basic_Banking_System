@@ -12,5 +12,6 @@ This repository is for the beginner to make pull request.
 2. CSS
 3. JavaScript
 4. i am also a memnber of this repo.
+5. i m into trading 
 
 i have done the ui part 
