@@ -12,4 +12,4 @@ This repository is for the beginner to make pull request.
 2. CSS
 3. JavaScript
 
-
+i have done the ui part 
