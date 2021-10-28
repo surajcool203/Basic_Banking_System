@@ -13,3 +13,5 @@ This repository is for the beginner to make pull request.
 3. JavaScript
 
 
+the color combination used in this is select by me .
+
