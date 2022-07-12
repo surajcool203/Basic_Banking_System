@@ -16,3 +16,5 @@ This repository is for the beginner to make pull request.
 ----------------------------------------------------------------
 I am a newbie. 😎
 I have done the ui part
+Good project for freshers
+
